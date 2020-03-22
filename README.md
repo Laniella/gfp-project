@@ -4,4 +4,4 @@ This project is a collection of links to cool datasets.
 
 # Dataset Links
 
-coming soon
+[New York City air quality dataset](airquality.csv)
