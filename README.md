@@ -1,9 +1,14 @@
 # gfp-project
 
-This project contains a collection of data sources for analysis at a later time.
+This project is a collection of links to cool datasets.
 
-## Data sources
+# Dataset Links
+
+[Mouse litter size and weight dataset](litters.csv)
+
+[New York City air quality dataset](airquality.csv)
 
 Old Faithful eruption dataset [here](faithful.csv)
 
 Forest fire dataset [here](forestfires.csv)
+
